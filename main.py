@@ -1,4 +1,6 @@
-print("A simple code to convert the temperature from degree celcius to Ferenheight")
+"""This code is basically designed to demonstrate a safe way to handle errors in Python programming, using: try and except."""
+print("A simple code to convert the temperature from degree celcius to fahrenheit")
+     
 print("Enter the temperature in degree Celcius.")
 
 try:
